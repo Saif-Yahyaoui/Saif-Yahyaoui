@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, My Name is Saif Yahyaoui
+#### I am an IT Engineer From Tunisia.
+![I am an IT Engineer From Tunisia.](https://github.com/Saif-Yahyaoui/Saif-Yahyaoui/blob/main/Banner.png)
 
-<!--
-**Saif-Yahyaoui/Saif-Yahyaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate IT Engineer with strong problem-solving skills and a drive to innovate. Committed to continuous learning and leveraging emerging technologies to foster business growth.A collaborative team player with excellent communication skills. Meticulous, detail-oriented, and proactive in pursuing areas of interest independently.
 
-Here are some ideas to get you started:
+Skills: Flutter / Java / Node.js / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Fake News Detector App. 
+- 🌱 I’m currently learning Blockchain and Machine Learning. 
+- 👯 I’m looking to collaborate on Flutter Projects. 
+- 🤔 I’m looking for help with AI integration and Blockchain. 
+- 📫 How to reach me: saif.yahyaoui@esprit.tn 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saif-Yahyaoui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saif-yahyaoui-25333927b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yahyaouisaif98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saif.yah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@saif.yahyaoui)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saif-Yahyaoui)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Yahyaoui)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saif-Yahyaoui&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Saif-Yahyaoui)  
+
