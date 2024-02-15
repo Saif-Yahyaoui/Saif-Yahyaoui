@@ -30,5 +30,7 @@ Passionate IT Mobile Engineer with strong problem-solving skills and a drive to 
 ![](https://github-contributor-stats.vercel.app/api?username=Saif-Yahyaoui&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saif-Yahyaoui&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Saif-Yahyaoui&icon=5&color=1)](https://visitcount.itsvg.in)
+
+
 
