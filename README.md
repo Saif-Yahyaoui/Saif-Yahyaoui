@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![I am an IT Mobile Engineer From Tunisia.](https://github.com/Saif-Yahyaoui/Saif-Yahyaoui/blob/main/Banner.png)
 
 ## Bio:
-Passionate IT Mobile Engineer with strong problem-solving skills and a drive to innovate. Committed to continuous learning and leveraging emerging technologies to foster business growth.A collaborative team player with excellent communication skills. Meticulous, detail-oriented, and proactive in pursuing areas of interest independently.
+Passionate Software Mobile Engineer with strong problem-solving skills and a drive to innovate. Committed to continuous learning and leveraging emerging technologies to foster business growth.A collaborative team player with excellent communication skills. Meticulous, detail-oriented, and proactive in pursuing areas of interest independently.
 
-*   🔭 I’m currently working on Fake News Detector App. <be>
+*   🔭 I’m currently working with Flouci by Kaoun. <be>
 *   🌱 I’m currently learning Blockchain and Machine Learning. <be>
-*   👯 I’m looking to collaborate on Flutter Projects. <be>
-*   🤔 I’m looking for help with AI integration and Blockchain. <be>
+*   👯 I’m looking to collaborate on Flutter & React Native Projects. <be>
+*   🤔 I’m looking for help with JavaScript. <be>
 *   🌍  I'm based in Tunisia
 *   ✉️  You can contact me at [saif.yahyaoui@esprit.tn](mailto:saif.yahyaoui@esprit.tn)
 
